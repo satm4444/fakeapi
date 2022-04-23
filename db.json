@@ -1,59 +1,51 @@
 {
-"ambulance" : [
+"products" : [
     {
       "id": 1,
-      "bloodBankName": "ITNYB Blood Bank",
-      "location": 3,
-      "phone": 9545158456,
-      "bloodGroup": "A+",
-      "imageUrl": "https://www.indiaspend.com/h-upload/old_images/1600x960_342835-covid-blood-donors1440.jpg",
+      "name": "Macbook Pro",
+      "category": "Laptops",
+      "description": "The MacBook Pro is a line of Macintosh notebook computers by by Apple Inc. Introduced in January 2006, it is the higher-end model of the MacBook family, sitting above the consumer-focused MacBook Air. It is currently sold with 13-inch, 14-inch, and 16-inch screens, all using variants of the Apple-designed M1 system on a chip.",
+      "price": 150000,
+      "specImageUrl": "https://www.indiaspend.com/h-upload/old_images/1600x960_342835-covid-blood-donors1440.jpg",
       "isFav": true
     },
     {
       "id": 2,
-      "bloodBankName": "HAMRO Blood Bank",
-      "location": 6,
-      "phone": 9868768896,
-      "bloodGroup": "B+",
-      "imageUrl": "https://assets.rumsan.com/hamro-lifebank/website/images/hamrolifebank-logo-1080x1080.jpg",
+      "name": "AlienWare",
+      "category": "Laptops",
+      "description": "The MacBook Pro is a line of Macintosh notebook computers by by Apple Inc. Introduced in January 2006, it is the higher-end model of the MacBook family, sitting above the consumer-focused MacBook Air. It is currently sold with 13-inch, 14-inch, and 16-inch screens, all using variants of the Apple-designed M1 system on a chip.",
+      "price": 150000,
+      "specImageUrl": "https://www.gadgetbytenepal.com/wp-content/uploads/2019/01/Alienware-Area-51m-696x364.jpg",
       "isFav": true
     },
     {
-      "id": 3,
-      "bloodBankName": "Blob Blood Bank",
-      "location": 3,
-      "phone": 9545158450,
-      "bloodGroup": "A+",
-      "imageUrl": "https://englishtribuneimages.blob.core.windows.net/gallary-content/2020/3/Desk/2020_3$largeimg_263872712.jpeg",
-      "isFav": false
+      "id": 1,
+      "name": "Razorblade",
+      "category": "Laptops",
+      "description": "The MacBook Pro is a line of Macintosh notebook computers by by Apple Inc. Introduced in January 2006, it is the higher-end model of the MacBook family, sitting above the consumer-focused MacBook Air. It is currently sold with 13-inch, 14-inch, and 16-inch screens, all using variants of the Apple-designed M1 system on a chip.",
+      "price": 150000,
+      "specImageUrl": "https://assets2.razerzone.com/images/og-image/new-razer-blade-15-OG-1200x630.jpg",
+      "isFav": true
     },
     {
-      "id": 4,
-      "bloodBankName": "Life Blood Bank",
-      "location": 3,
-      "phone": 9545158456,
-      "bloodGroup": "AB+",
-      "imageUrl": "https://assets.rumsan.com/hamro-lifebank/website/images/hamrolifebank-logo-1080x1080.jpg",
-      "isFav": false
+      "id": 1,
+      "name": "Dell Dual",
+      "category": "Laptops",
+      "description": "The MacBook Pro is a line of Macintosh notebook computers by by Apple Inc. Introduced in January 2006, it is the higher-end model of the MacBook family, sitting above the consumer-focused MacBook Air. It is currently sold with 13-inch, 14-inch, and 16-inch screens, all using variants of the Apple-designed M1 system on a chip.",
+      "price": 150000,
+      "specImageUrl": "https://pbs.twimg.com/media/DMb1rl8UIAE9NT0.jpg:large",
+      "isFav": true
     },
     {
-      "id": 5,
-      "bloodBankName": "National Blood Bank",
-      "location": 3,
-      "phone": 9545128456,
-      "bloodGroup": "O-",
-      "imageUrl": "https://media.globalcitizen.org/thumbnails/94/ec/94ec35b9-0e73-4e83-a358-ca47bfed8af1/blood.jpg__1600x900_q85_crop_subsampling-2.jpg",
-      "isFav": false
-    },
-    {
-      "id": 6,
-      "bloodBankName": "IBB Blood Bank",
-      "location": 3,
-      "phone": 9545158456,
-      "bloodGroup": "O+",
-      "imageUrl": "https://resize.indiatvnews.com/en/resize/newbucket/715_-/2017/04/blood-bank-1492998880.jpg",
-      "isFav": false
+      "id": 1,
+      "name": "Red banner ad",
+      "category": "Accessories",
+      "description": "The MacBook Pro is a line of Macintosh notebook computers by by Apple Inc. Introduced in January 2006, it is the higher-end model of the MacBook family, sitting above the consumer-focused MacBook Air. It is currently sold with 13-inch, 14-inch, and 16-inch screens, all using variants of the Apple-designed M1 system on a chip.",
+      "price": 150000,
+      "specImageUrl": "https://m.media-amazon.com/images/I/514h4wuJKWL._AC_SL1500_.jpg",
+      "isFav": true
     }
+    
     
   ]
 }
