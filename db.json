@@ -5,6 +5,7 @@
       "name": "Macbook Pro",
       "category": "Laptops",
       "description": "The MacBook Pro is a line of Macintosh notebook computers by by Apple Inc. Introduced in January 2006, it is the higher-end model of the MacBook family, sitting above the consumer-focused MacBook Air. It is currently sold with 13-inch, 14-inch, and 16-inch screens, all using variants of the Apple-designed M1 system on a chip.",
+      "productImage": "https://www.indiaspend.com/h-upload/old_images/1600x960_342835-covid-blood-donors1440.jpg",
       "price": 150000,
       "specImageUrl": "https://www.indiaspend.com/h-upload/old_images/1600x960_342835-covid-blood-donors1440.jpg",
       "isFav": true
@@ -14,6 +15,7 @@
       "name": "AlienWare",
       "category": "Laptops",
       "description": "The MacBook Pro is a line of Macintosh notebook computers by by Apple Inc. Introduced in January 2006, it is the higher-end model of the MacBook family, sitting above the consumer-focused MacBook Air. It is currently sold with 13-inch, 14-inch, and 16-inch screens, all using variants of the Apple-designed M1 system on a chip.",
+      "productImage": "https://www.gadgetbytenepal.com/wp-content/uploads/2019/01/Alienware-Area-51m-696x364.jpg",
       "price": 150000,
       "specImageUrl": "https://www.gadgetbytenepal.com/wp-content/uploads/2019/01/Alienware-Area-51m-696x364.jpg",
       "isFav": true
@@ -23,6 +25,7 @@
       "name": "Razorblade",
       "category": "Laptops",
       "description": "The MacBook Pro is a line of Macintosh notebook computers by by Apple Inc. Introduced in January 2006, it is the higher-end model of the MacBook family, sitting above the consumer-focused MacBook Air. It is currently sold with 13-inch, 14-inch, and 16-inch screens, all using variants of the Apple-designed M1 system on a chip.",
+      "productImage": "https://assets2.razerzone.com/images/og-image/new-razer-blade-15-OG-1200x630.jpg",
       "price": 150000,
       "specImageUrl": "https://assets2.razerzone.com/images/og-image/new-razer-blade-15-OG-1200x630.jpg",
       "isFav": true
@@ -32,6 +35,7 @@
       "name": "Dell Dual",
       "category": "Laptops",
       "description": "The MacBook Pro is a line of Macintosh notebook computers by by Apple Inc. Introduced in January 2006, it is the higher-end model of the MacBook family, sitting above the consumer-focused MacBook Air. It is currently sold with 13-inch, 14-inch, and 16-inch screens, all using variants of the Apple-designed M1 system on a chip.",
+      "productImage": "https://pbs.twimg.com/media/DMb1rl8UIAE9NT0.jpg:large",
       "price": 150000,
       "specImageUrl": "https://pbs.twimg.com/media/DMb1rl8UIAE9NT0.jpg:large",
       "isFav": true
@@ -41,6 +45,7 @@
       "name": "Red banner ad",
       "category": "Accessories",
       "description": "The MacBook Pro is a line of Macintosh notebook computers by by Apple Inc. Introduced in January 2006, it is the higher-end model of the MacBook family, sitting above the consumer-focused MacBook Air. It is currently sold with 13-inch, 14-inch, and 16-inch screens, all using variants of the Apple-designed M1 system on a chip.",
+      "productImage": "https://m.media-amazon.com/images/I/514h4wuJKWL._AC_SL1500_.jpg",
       "price": 150000,
       "specImageUrl": "https://m.media-amazon.com/images/I/514h4wuJKWL._AC_SL1500_.jpg",
       "isFav": true
