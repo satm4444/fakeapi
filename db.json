@@ -2,22 +2,22 @@
 "products" : [
     {
       "id": 1,
-      "name": "Macbook Pro",
+      "name": "Dell xps insperion 13inch laptop",
       "category": "Laptops",
       "description": "The MacBook Pro is a line of Macintosh notebook computers by by Apple Inc. Introduced in January 2006, it is the higher-end model of the MacBook family, sitting above the consumer-focused MacBook Air. It is currently sold with 13-inch, 14-inch, and 16-inch screens, all using variants of the Apple-designed M1 system on a chip.",
-      "productImage": "https://www.indiaspend.com/h-upload/old_images/1600x960_342835-covid-blood-donors1440.jpg",
+      "productImage": "https://www.nicepng.com/png/detail/327-3278700_hp-laptop-png-image-dell-latest-laptops-2018.png",
       "price": 150000,
-      "specImageUrl": "https://www.indiaspend.com/h-upload/old_images/1600x960_342835-covid-blood-donors1440.jpg",
+      "specImageUrl": "https://www.nicepng.com/png/detail/327-3278700_hp-laptop-png-image-dell-latest-laptops-2018.png",
       "isFav": true
     },
     {
       "id": 2,
-      "name": "AlienWare",
+      "name": "Lenovo 14inch laptop 16gb ram i5 10th 256gb ssd",
       "category": "Laptops",
       "description": "The MacBook Pro is a line of Macintosh notebook computers by by Apple Inc. Introduced in January 2006, it is the higher-end model of the MacBook family, sitting above the consumer-focused MacBook Air. It is currently sold with 13-inch, 14-inch, and 16-inch screens, all using variants of the Apple-designed M1 system on a chip.",
-      "productImage": "https://www.gadgetbytenepal.com/wp-content/uploads/2019/01/Alienware-Area-51m-696x364.jpg",
+      "productImage": "https://igotoffer.com/blog/wp-content/uploads/2019/01/the-best-flagship-laptops-from-ces-2019.png",
       "price": 150000,
-      "specImageUrl": "https://www.gadgetbytenepal.com/wp-content/uploads/2019/01/Alienware-Area-51m-696x364.jpg",
+      "specImageUrl": "https://igotoffer.com/blog/wp-content/uploads/2019/01/the-best-flagship-laptops-from-ces-2019.png",
       "isFav": true
     },
     {
@@ -49,8 +49,19 @@
       "price": 150000,
       "specImageUrl": "https://m.media-amazon.com/images/I/514h4wuJKWL._AC_SL1500_.jpg",
       "isFav": true
+    },
+    {
+      "id": 6,
+      "name": "Razor razor blade blade 13inch",
+      "category": "Accessories",
+      "description": "The MacBook Pro is a line of Macintosh notebook computers by by Apple Inc. Introduced in January 2006, it is the higher-end model of the MacBook family, sitting above the consumer-focused MacBook Air. It is currently sold with 13-inch, 14-inch, and 16-inch screens, all using variants of the Apple-designed M1 system on a chip.",
+      "productImage": "https://www.pcspecialist.co.uk/images/landing/home/homepage-lineup-laptops.png",
+      "price": 150000,
+      "specImageUrl": "https://www.pcspecialist.co.uk/images/landing/home/homepage-lineup-laptops.png",
+      "isFav": true
     }
     
     
   ]
 }
+
